@@ -1,8 +1,6 @@
 {
 //220717
 "spider":"https://raw.fastgit.org/xingkong11/222/main/220717.jar",
-//云星.jar
-"spider":"https://raw.fastgit.org/xingkong11/111/main/0719.jar",
 // 直播
 "lives":[{"group":"redirect","channels":[{"name":"live","urls":["proxy://do=live&type=txt&ext=aHR0cDovLzl4aTRvLnRrL3N1Yi9teXR2LnR4dA=="]}]}],
 
