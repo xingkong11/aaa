@@ -1,5 +1,5 @@
 {
-//吾爱0722.jar
+//668.jar
 "spider":"http://home.jundie.top:81/jar/top92921.jar",
 // 直播
 "lives":[{"group":"redirect","channels":[{"name":"live","urls":["proxy://do=live&type=txt&ext=aHR0cDovLzl4aTRvLnRrL3N1Yi9teXR2LnR4dA=="]}]}],
