@@ -6,7 +6,7 @@
 "lives":[{"group":"redirect","channels":[{"name":"live","urls":["proxy://do=live&type=txt&ext=aHR0cDovLzl4aTRvLnRrL3N1Yi9teXR2LnR4dA=="]}]}],
 
 "sites":[
-{"key":"csp_SP361","name":"🥉360(SP)","type":3,"api":"csp_SP361","searchable":1,"quickSearch":1,"filterable":1},
+{"key":"csp_SP361","name":"🥇360(SP)","type":3,"api":"csp_SP361","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_Kunyu77","name":"🥇七七(SP)","type":3,"api":"csp_Kunyu77","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"酷猫","name":"🥇酷猫","type":3,"api":"csp_Kmys","searchable":1,"quickSearch":1,"filterable":1},
 {"key": "Ikan","name": "🥇爱看(SP)","type": 3,"api": "csp_IKan","searchable": 1,"quickSearch": 1,"filterable": 1},
